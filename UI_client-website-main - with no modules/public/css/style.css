@@ -1,0 +1,40 @@
+
+/*
+
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+}
+
+
+
+*/
+
+#containerForm {
+    width: 50%;
+    float: left;
+    margin-left: 8em;
+    box-shadow: 0 0 9em 0 rgb(142, 142, 143);
+    background-color: rgb(153, 153, 153);
+    padding: 2em;
+    border-radius: 2em;
+}
+
+#contactTitle {
+    font-size: 3em;
+    margin-bottom: 0.6em;
+    font-family: 'carrois gothic sc';
+}
+
+#tableTitle{
+    font-size: 3em;
+    margin-bottom: 0.6em;
+    font-family: 'carrois gothic sc';
+}
