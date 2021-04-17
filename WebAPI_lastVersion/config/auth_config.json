@@ -1,0 +1,9 @@
+{
+    "issuer":"https://dev-44hus2fc.eu.auth0.com/",
+    "audience": "https://productsapi.com",
+    "algorithms": ["RS256"],
+    "create": "create:products",
+    "read": "read:products",
+    "update": "update:products",
+    "delete": "delete:products"
+}
