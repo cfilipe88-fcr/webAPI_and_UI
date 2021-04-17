@@ -1,0 +1,57 @@
+
+@media (min-width: 992px) {
+#containerForm {
+    width: 50%;
+    float: left;
+    margin-left: 8em;
+    box-shadow: 0 0 9em 0 rgb(142, 142, 143);
+    background-color: rgb(207, 207, 207);
+    padding: 2em;
+    border-radius: 2em;
+    border-style: double;
+}
+
+
+
+#contactTitle {
+    font-size: 3em;
+    margin-bottom: 0.6em;
+    font-family: 'carrois gothic sc';
+}
+
+#tableTitle{
+    font-size: 3em;
+    margin-bottom: 0.6em;
+    font-family: 'carrois gothic sc';
+}
+}
+
+@media (min-width: 500px) and (max-width: 991px) { 
+
+    #containerForm {
+        width: 50%;
+        float: left;
+        margin-left: 8em;
+        box-shadow: 0 0 9em 0 rgb(142, 142, 143);
+        background-color: rgb(161, 159, 153);
+        padding: 2em;
+        border-radius: 2em;
+        border-style: double;
+    }
+    
+    
+    
+    #contactTitle {
+        font-size: 3em;
+        margin-bottom: 0.6em;
+        font-family: 'carrois gothic sc';
+    }
+    
+    #tableTitle{
+        font-size: 3em;
+        margin-bottom: 0.6em;
+        font-family: 'carrois gothic sc';
+    }
+
+
+}
